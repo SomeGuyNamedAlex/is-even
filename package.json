@@ -1,0 +1,22 @@
+{
+  "name": "is-even-better",
+  "version": "1.0.0",
+  "description": "Check if a number is even in the most reliable way ever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SomeGuyNamedAlex/is-even.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SomeGuyNamedAlex/is-even/issues"
+  },
+  "homepage": "https://github.com/SomeGuyNamedAlex/is-even#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
